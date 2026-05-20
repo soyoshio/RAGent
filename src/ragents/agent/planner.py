@@ -6,4 +6,4 @@ class Planner:
 
     def plan(self, query: str):
         from ragents.schema.agent import Plan
-        return Plan(steps=[])
+        return Plan(query=query, steps=[])

@@ -1,0 +1,10 @@
+[
+  {
+    "query": "How does useEffect work?",
+    "expected_ids": ["sample#2"]
+  },
+  {
+    "query": "React state in functional components",
+    "expected_ids": ["sample#1"]
+  }
+]

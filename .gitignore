@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+venv/
+ENV/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+!.env.example
+
+# Index outputs
+index/*
+!index/.gitkeep
+
+# Data (runtime generated)
+data/*.json
+!data/chunk_index.json
+
+# uv
+uv.lock
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ── GSD baseline (auto-generated) ──
+.gsd
+.gsd-id
+.mcp.json
+.bg-shell/
+*.code-workspace
+.env.*
+node_modules/
+.next/
+*.pyc
+.venv/
+target/
+vendor/
+*.log
+coverage/
+.cache/
+tmp/

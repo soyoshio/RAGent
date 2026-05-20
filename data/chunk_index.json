@@ -1,0 +1,15 @@
+{
+  "index_version": "0.1.0",
+  "chunks": [
+    {
+      "id": "sample#1",
+      "text": "React Hooks allow you to use state in functional components.",
+      "meta": {"source": "react_hooks_guide.md"}
+    },
+    {
+      "id": "sample#2",
+      "text": "useEffect is used for side effects in functional components.",
+      "meta": {"source": "react_hooks_guide.md"}
+    }
+  ]
+}
